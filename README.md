@@ -16,7 +16,14 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Anurag Patel</h1>
-<h3 align="center">A passionate Full Stack Web developer</h3>
+<h3 align="center">A Passionate Full Stack Web developer 👨‍💻 </h3>
+<p align="center">
+  <img alt="Banner"  width="900"  src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
+</p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag-2024&theme=tokyonight&hide_border=false&show_icons=true&locale=en&layout=compact" alt="anurag-2024" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag-2024&theme=tokyonight&hide_border=false&show_icons=true&locale=en" alt="anurag-2024" /></p>
+
+
 <img align="right" alt="coding" width="500" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-2024&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-2024" /> </p>
 
@@ -41,9 +48,4 @@ Here are some ideas to get you started:
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag-2024&show_icons=true&locale=en&layout=compact" alt="anurag-2024" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag-2024&show_icons=true&locale=en" alt="anurag-2024" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anurag-2024&" alt="anurag-2024" /></p>
